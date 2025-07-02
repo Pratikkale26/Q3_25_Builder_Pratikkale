@@ -1,0 +1,14 @@
+# Ignore build artifacts
+/target/
+**/*.rlib
+
+# Ignore by Cargo
+Cargo.lock
+
+# IDE and editor folders
+.idea/
+.vscode/
+
+# Wallet or secret JSON files
+dev-wallet.json
+turbin3-wallet.json

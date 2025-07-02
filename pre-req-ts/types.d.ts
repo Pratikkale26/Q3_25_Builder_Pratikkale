@@ -1,0 +1,2 @@
+
+declare module 'prompt-sync';

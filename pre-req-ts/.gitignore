@@ -1,0 +1,28 @@
+# Node dependencies
+/node_modules/
+
+# Build artifacts
+/dist/
+/build/
+/out/
+
+# Environment or local config
+.env
+*.local
+
+# IDE and editor folders
+.idea/
+.vscode/
+
+# Wallet or secret JSON files
+dev-wallet.json
+turbin3-wallet.json
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
